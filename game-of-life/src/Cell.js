@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CELL_SIZE = 20;
+const CELL_SIZE = 10;
 
 class Cell extends React.Component {
     
