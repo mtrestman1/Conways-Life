@@ -18,7 +18,7 @@ class Game extends React.Component {
         this.state = {
             cells: [],
             isRunning: false,
-            interval: 25
+            interval: 75
         }
     }
 
